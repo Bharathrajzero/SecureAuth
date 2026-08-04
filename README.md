@@ -70,10 +70,7 @@
 ##  Project Structure
 
 ```text
-modern-auth-system/
-├── .github/
-│   └── workflows/
-│       └── ci.yml            # Continuous Integration pipeline
+SecureAuth/
 ├── public/
 │   └── index.html            # SPA Frontend (Login, Sign Up, OTP, Reset, Theme Switcher)
 ├── .env                      # Sample environment variables file
