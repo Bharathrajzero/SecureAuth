@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/your-username/modern-auth-system/blob/main/LICENSE">
+    <a href="https://github.com/Bharathrajzero/SecureAuth/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
     </a>
     <a href="https://nodejs.org/">
@@ -125,8 +125,8 @@ ALTER TABLE public.users ENABLE ROW LEVEL SECURITY;
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/modern-auth-system.git](https://github.com/your-username/modern-auth-system.git)
-cd modern-auth-system
+git clone [https://github.com/your-username/SecureAuth.git](https://github.com/your-username/SecureAuth.git)
+cd SecureAuth
 
 ```
 
@@ -199,7 +199,7 @@ Navigate to `http://localhost:3000` in your web browser.
 
 ##  Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/your-username/modern-auth-system/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/Bharathrajzero/SecureAuth/issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
