@@ -76,9 +76,8 @@ modern-auth-system/
 │       └── ci.yml            # Continuous Integration pipeline
 ├── public/
 │   └── index.html            # SPA Frontend (Login, Sign Up, OTP, Reset, Theme Switcher)
-├── .env.example              # Sample environment variables file
-├── .gitignore                # Files excluded from source control
-├── CONTRIBUTING.md           # Contribution guidelines
+├── .env                      # Sample environment variables file
+├── .gitignore                # Files excluded from source control        
 ├── LICENSE                   # Open-source license (MIT)
 ├── package.json              # Project dependencies and scripts
 ├── README.md                 # Project documentation
