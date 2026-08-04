@@ -196,7 +196,7 @@ Navigate to `http://localhost:3000` in your web browser.
 
 ##  Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/Bharathrajzero/SecureAuth/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Bharathrajzero/SecureAuth/issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
