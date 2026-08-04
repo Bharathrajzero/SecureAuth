@@ -30,23 +30,22 @@
 
 ---
 
-## 📑 Table of Contents
+##  Screenshots
 
-- [✨ Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [🗄️ Database Setup (Supabase)](#️-database-setup-supabase)
-- [🚀 Getting Started](#-getting-started)
-  - [1. Prerequisites](#1-prerequisites)
-  - [2. Installation & Configuration](#2-installation--configuration)
-- [📡 API Endpoints](#-api-endpoints)
-- [🛡️ Security Safeguards](#️-security-safeguards)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+<table>
+  <tr>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/80a2583f-96a4-4877-a133-e1770d9984d9" alt="Login View"></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/e80cc2c8-4568-4754-98df-e9b057e08d80" alt="Sign Up View"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/e9ad6817-61d4-4c4e-bfe7-527a55174875" alt="OTP Verification"></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/49d8429e-a3be-475a-8b38-34ce89e425ec" alt="Dashboard View"></td>
+  </tr>
+</table>
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🌓 **Dark & Light Mode Toggle**: Seamlessly switches themes with smooth CSS transitions, system preference auto-detection (`prefers-color-scheme`), and `localStorage` persistence.
 - 🗄️ **Supabase Database Persistence**: User profiles, password hashes, and OTP tokens are securely persisted in a PostgreSQL database using Supabase.
@@ -58,7 +57,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Backend**: Node.js, Express.js
 * **Database**: Supabase (PostgreSQL)
@@ -68,7 +67,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 modern-auth-system/
@@ -89,7 +88,7 @@ modern-auth-system/
 
 ---
 
-## 🗄️ Database Setup (Supabase)
+##  Database Setup (Supabase)
 
 1. Go to your **[Supabase Dashboard](https://www.google.com/search?q=https://supabase.com/dashboard)** and open the **SQL Editor**.
 2. Run the following query to initialize the `users` table:
@@ -189,7 +188,7 @@ Navigate to `http://localhost:3000` in your web browser.
 
 ---
 
-## 🛡️ Security Safeguards
+##  Security Safeguards
 
 > [!NOTE]
 > All user authentication paths in this repository adhere to standard modern web security practices.
@@ -202,7 +201,7 @@ Navigate to `http://localhost:3000` in your web browser.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/your-username/modern-auth-system/issues).
 
