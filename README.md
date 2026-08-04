@@ -19,9 +19,6 @@
     <a href="https://expressjs.com/">
       <img src="https://img.shields.io/badge/Backend-Express.js-000000.svg?logo=express" alt="Express" />
     </a>
-    <a href="https://github.com/your-username/modern-auth-system/pulls">
-      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
-    </a>
   </p>
 
   <sub>Includes real-time Email OTP verification, Password Reset workflows, Bcrypt hashing, JWT session management, Rate limiting, and a Glassmorphism Single-Page UI with Dark & Light themes.</sub>
